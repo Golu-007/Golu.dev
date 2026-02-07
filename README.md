@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a1efb476-367d-426f-9ebd-f6654289b767/deploy-status)](https://app.netlify.com/projects/golu-kumar-dev/deploys)
+
+
 🚀 Golu.dev | Professional React Portfolio
 Welcome to the repository for my personal portfolio! This is a Single Page Application (SPA) built to showcase my web development learning journey, featuring smooth animations, a modern UI, and a fully responsive design.
 
