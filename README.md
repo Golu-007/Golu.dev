@@ -5,7 +5,7 @@
 Welcome to the repository for my personal portfolio! This is a Single Page Application (SPA) built to showcase my web development learning journey, featuring smooth animations, a modern UI, and a fully responsive design.
 
 🔗 Live Demo
-Check out the live site here: [Coming soon, Stay tuned]
+Check out the live site here: https://golu-kumar-dev.netlify.app/
 
 ✨ Key Features
 Dynamic Theme Switching: Custom "Sun and Moon" rising/setting animations that toggle between Light and Dark modes.
